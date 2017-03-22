@@ -11,7 +11,7 @@
 
   <groupId>com.cloudera.csd</groupId>
   <artifactId>DRUID</artifactId>
-  <version>5.8.0</version>
+  <version>5.10.0</version>
   <name>The Druid Service CSD</name>
   <packaging>pom</packaging>
 
