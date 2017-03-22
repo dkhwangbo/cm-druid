@@ -2,7 +2,7 @@
   "name": "DRUID",
   "label": "Druid",
   "description": "Druid is a high-performance, column-oriented, distributed data store.",
-  "version": "5.8.0",
+  "version": "5.10.0",
   "runAs": {
     "user": "druid",
     "group": "druid"
